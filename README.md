@@ -1,6 +1,6 @@
 # London Energy Consumption Analysis Project
 
-## Overview
+## Overview for Task 02 
 
 This project investigates energy consumption patterns and their relationships with socio-demographic factors and weather indicators across European cities, particularly London, following the installation of Smart Energy Meters. The analysis spans a period of 30 months and employs exploratory data analysis (EDA), machine learning algorithms, and time series forecasting methods.
 
