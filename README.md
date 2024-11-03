@@ -56,3 +56,4 @@ To set up your environment, ensure you have the following dependencies installed
 
 ```bash
 pip install pandas numpy keras xgboost scikit-learn statsmodels matplotlib seaborn fbprophet
+
